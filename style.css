@@ -39,6 +39,7 @@ figcaption {
 .boxSelector {
 	float: left;
 	width: 50%;
+	height: 250px;
 	padding: 40px;
 	margin-bottom: 20px;
 	border: 2px solid black;
