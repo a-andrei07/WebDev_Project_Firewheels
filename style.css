@@ -7,18 +7,25 @@ img {
   border: 5px solid black;
 }
 
-h1 {
-	font-family: "Verdana";
+body {
+	background-image: linear-gradient(to top, #7d0000 , #c95700);
+}
 
+.carbon-background {
+	color: white;
+	background-color: gray;
+	background-image: url("images/carbon-background/raniramli-carbon-5755698.jpg");
+	background-repeat: repeat-xy;
+	background-size: 300px, 300px;
 }
 
 h2 {
-	font-family: "Verdana";
+	font-family: "Quantico";
 
 }
 
 h3 {
-	font-family: "Verdana";
+	font-family: "Quantico";
 }
 
 h4 {
@@ -34,6 +41,8 @@ figcaption {
 	width: 50%;
 	padding: 40px;
 	margin-bottom: 20px;
+	border: 2px solid black;
+	border-radius: 0px;
 }
 
 .boxContacts {
@@ -51,6 +60,7 @@ figcaption {
 	font-family: "Special Elite", system-ui;
 	font-weight: 400;
 	font-style: normal;
+	border: 2px solid black;
 	}
 
 body {
