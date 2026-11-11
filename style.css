@@ -36,10 +36,15 @@ figcaption {
 	font-family: "Verdana";
 }
 
+.unifySize {
+	float: left;
+	height: flex;
+}
+
 .boxSelector {
 	float: left;
 	width: 50%;
-	height: 250px;
+	height: flex;
 	padding: 40px;
 	margin-bottom: 20px;
 	border: 2px solid black;
@@ -49,6 +54,7 @@ figcaption {
 .boxContacts {
 	float: left;
 	width: 33.3%;
+	height: flex;
 	padding: 40px;
 	margin-top: 20px;
 }
